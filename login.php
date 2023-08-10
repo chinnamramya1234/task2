@@ -9,6 +9,6 @@
         <input type="password" name="password" required><br> <br>
        <input class="btn btn-dark" type="submit" value="Login"> <br> <br>
     </form>
-    <p>Don't have an account? <a href="register.php">Register here</a></p>
+    <p>Don't have an account? <a href="registration.php">Register here</a></p>
 </body>
 </html>
