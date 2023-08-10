@@ -32,22 +32,7 @@ if ($result->num_rows == 1) {
 
 <!DOCTYPE html>
 <html>
-<!-- <body class="text-center my-4" content="width=device-width, initial-scale = 1.0" style="background-color: aliceblue;">
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
-    <h2>Profile</h2>
-    <p>Welcome, <?php echo $username; ?>! This is your profile page.</p>
-    <p><strong>Username:</strong> <?php echo $username; ?></p>
-    <p><strong>First Name:</strong> <?php echo $firstname; ?></p>
-    <p><strong>Last Name:</strong> <?php echo $lastname; ?></p>
-    <p><strong>Email:</strong> <?php echo $email; ?></p>
-    <p><strong>Created At:</strong> <?php echo $createdat; ?></p>
-    <p><strong>Current Login:</strong> <?php echo $lastlogin; ?></p>
-    <p><strong>Updated At:</strong> <?php echo $updatedat; ?></p>
-    <p><strong>Last Updated At:</strong> <?php echo $lastupdateat; ?></p>
-    <p><strong>Previous Login:</strong> <?php echo $previouslogin; ?></p>
-    <p><a href="update_profile.php">Update Details</a></p>
-    <p><a href="logout.php">Logout</a></p>
-</body> -->
+
 <body class="text-center my-4" content="width=device-width, initial-scale = 1.0" style="background-color: aliceblue;">
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
         <!-- <h1 class="text-center my-3">Displaying Data</h1> -->
